@@ -1,7 +1,7 @@
 # Dev-Ops-Project
 Dev-Ops External Project
 
-#Product Management System 
+Product Management System 
 🚀 Product Management System – DevOps Project
 🧾 Project Description
 This is a Product Management Web Application built using HTML, CSS, and JavaScript. It serves as an Admin Panel for managing product listings — allowing users to add, edit, delete, and search products, along with uploading images, categorizing items, and visualizing product distribution using Chart.js.
