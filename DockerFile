@@ -1,0 +1,10 @@
+# Use a minimal Nginx image
+FROM nginx:alpine
+
+# Copy your static site files into the container
+COPY ./HACKATHON usr/share/nginx/html
+
+# Expose port 80
+EXPOSE 80
+
+CMD ["nginx". "-g", "daemon off;"]
